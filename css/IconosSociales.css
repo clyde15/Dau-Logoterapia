@@ -1,0 +1,38 @@
+
+.home #migas-social{margin-top:-30px}
+#migas-social .social{float:right;
+width:36%;padding:10px 0 0}
+.home #migas-social .social{padding:0 0 4px;width:36%}
+#migas-social .social p{float:left;font-size:.875em;line-height:3;font-family:'GloberLight','Calibri',Arial,Sans-Serif;text-transform:uppercase}
+.home #migas-social .social p{color:#fff;line-height:2.7;margin:0}
+#migas-social .social ul li{float:left;margin-left:5px;list-style:none}
+.home #migas-social .social ul li{margin-top:-4px}
+#migas-social .social ul li a{display:block;width:30px;height:30px;text-indent:100%;overflow:hidden;white-space:nowrap}
+#migas-social .social ul li a:hover{-webkit-transition:background .2s linear;-moz-transition:background .2s linear;-ms-transition:background .2s linear;-o-transition:background .2s linear;transition:background .2s linear}
+#migas-social .social ul li a.facebook{background:url('Imagenes Sociales/iconos_social.jpg') no-repeat 0 top rgba(0,0,0,0)}
+.home #migas-social .social ul li a.facebook{background:url('Imagenes Sociales/iconos_social.jpg') no-repeat 0 bottom rgba(0,0,0,0)}
+#migas-social .social ul li a.facebook:hover{background:url('Imagenes Sociales/iconos_social.jpg') no-repeat 0 -30px rgba(0,0,0,0)}
+#migas-social .social ul li a.twitter{background:url('Imagenes Sociales/iconos_social.jpg') no-repeat -30px top rgba(0,0,0,0)}
+.home #migas-social .social ul li a.twitter{background:url('Imagenes Sociales/iconos_social.jpg') no-repeat -30px bottom rgba(0,0,0,0)}
+#migas-social .social ul li a.twitter:hover{background:url('Imagenes Sociales/iconos_social.jpg') no-repeat -30px -30px rgba(0,0,0,0)}
+#migas-social .social ul li a.youtube{background:url('Imagenes Sociales/iconos_social.jpg') no-repeat -60px top rgba(0,0,0,0)}
+.home #migas-social .social ul li a.youtube{background:url('Imagenes Sociales/iconos_social.jpg') no-repeat -60px bottom rgba(0,0,0,0)}
+#migas-social .social ul li a.youtube:hover{background:url('Imagenes Sociales/iconos_social.jpg') no-repeat -60px -30px rgba(0,0,0,0)}
+#migas-social .social ul li a.linkedin{background:url('Imagenes Sociales/iconos_social.jpg') no-repeat -90px top rgba(0,0,0,0)}
+.home #migas-social .social ul li a.linkedin{background:url('Imagenes Sociales/iconos_social.jpg') no-repeat -90px bottom rgba(0,0,0,0)}
+#migas-social .social ul li a.linkedin:hover{background:url('Imagenes Sociales/iconos_social.jpg') no-repeat -90px -30px rgba(0,0,0,0)}
+#migas-social .social ul li a.google{background:url('Imagenes Sociales/iconos_social.jpg') no-repeat -120px top rgba(0,0,0,0)}
+.home #migas-social .social ul li a.google{background:url('Imagenes Sociales/iconos_social.jpg') no-repeat -120px bottom rgba(0,0,0,0)}
+#migas-social .social ul li a.google:hover{background:url('Imagenes Sociales/iconos_social.jpg') no-repeat -120px -30px rgba(0,0,0,0)}
+#migas-social .social ul li a.flickr{background:url('Imagenes Sociales/iconos_social.jpg') no-repeat -150px top rgba(0,0,0,0)}
+.home #migas-social .social ul li a.flickr{background:url('Imagenes Sociales/iconos_social.jpg') no-repeat -150px bottom rgba(0,0,0,0)}
+#migas-social .social ul li a.flickr:hover{background:url('Imagenes Sociales/iconos_social.jpg') no-repeat -150px -30px rgba(0,0,0,0)}
+#migas-social .social ul li a.tuenti{background:url('Imagenes Sociales/iconos_social.jpg') no-repeat -180px top rgba(0,0,0,0)}
+.home #migas-social .social ul li a.tuenti{background:url('Imagenes Sociales/iconos_social.jpg') no-repeat -180px bottom rgba(0,0,0,0)}
+#migas-social .social ul li a.tuenti:hover{background:url('Imagenes Sociales/iconos_social.jpg') no-repeat -180px -30px rgba(0,0,0,0)}
+#migas-social .social ul li a.slideshare{background:url('Imagenes Sociales/iconos_social.jpg') no-repeat -210px top rgba(0,0,0,0)}
+.home #migas-social .social ul li a.slideshare{background:url('Imagenes Sociales/iconos_social.jpg') no-repeat -210px bottom rgba(0,0,0,0)}
+#migas-social .social ul li a.slideshare:hover{background:url('Imagenes Sociales/iconos_social.jpg') no-repeat -210px -30px rgba(0,0,0,0)}
+#migas-social .social ul li a.instagram{background:url('Imagenes Sociales/iconos_social.jpg') no-repeat -240px top rgba(0,0,0,0)}
+.home #migas-social .social ul li a.instagram{background:url('Imagenes Sociales/iconos_social.jpg') no-repeat -240px bottom rgba(0,0,0,0)}
+#migas-social .social ul li a.instagram:hover{background:url('Imagenes Sociales/iconos_social.jpg') no-repeat -240px -30px rgba(0,0,0,0)}

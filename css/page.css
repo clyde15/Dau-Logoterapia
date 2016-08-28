@@ -1,0 +1,68 @@
+#page{
+	width: 1000px;
+	height: auto;
+	margin: 0 auto;
+}
+
+/*Menu principal*/
+#page ul{
+	width: auto;
+	position: absolute;
+	background-color: #7DB9E8;
+	border: 1px solid #ece6e8;
+	border-bottom: 3px solid #d9ced2;
+	list-style: none;
+	padding: 0;
+	margin: 0;	
+    border-radius: 12px 12px 12px 12px;
+    -moz-border-radius: 12px 12px 12px 12px;
+    -webkit-border-radius: 12px 12px 12px 12px;
+    border: 0px solid #000000;
+}
+#page ul li{
+	float: left;
+	height: 40px;
+	width: 200px;
+	padding: 0;
+	margin: 0; 
+	 
+}
+
+#page ul li a{
+	display: block;
+	padding: 12px 20px;
+	text-decoration: none;
+	text-shadow: 0px 1px 0px #fff;
+	color: #070707;
+}
+
+/*sombra*/
+#page ul li a:hover{
+	background-color: #7DB9E8;
+	color: #fff;
+	text-shadow: 0px 1px 20px #000;
+	height: 20px;
+	border-radius: 12px 12px 12px 12px;
+    -moz-border-radius: 12px 12px 12px 12px;
+    -webkit-border-radius: 12px 12px 12px 12px;
+    border: 0px solid #000000;
+}
+/*Despliegue*/
+#page ul li ul{
+	list-style: none;
+	background-color: #ffffff;
+	width: 250px;
+	padding: 0;
+	margin: 0;
+	border: 1px solid #ece6e8;
+	border-bottom: 3px solid #d9ced2;
+	position: absolute;
+	display: none;
+}
+#page ul li ul li{
+	width: 100%;
+	float: none;
+}
+#page ul li:hover ul{
+	display: block;
+}
